@@ -1,0 +1,1 @@
+ Hi, I am a linguistics student. My research interests are language documentation, Phonology-Grammar interface. These html files contain the annotated data from Oloma, an Edoid language previous fielwork (Summer 2024). More data will be uploaded. 
