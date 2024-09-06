@@ -1,1 +1,1 @@
- Hi, I am a linguistics student. My research interests are language documentation, Phonology-Grammar interface. These html files contain the annotated data from Oloma, an Edoid language previous fielwork (Summer 2024). More data will be uploaded. 
+Hi there, As a linguistics student, my research interests are in language documentation and the Phonology-Grammar interface. These HTML files in the folders titled 'annotated data' contain data from Oloma, an Edoid language previous fieldwork (ongoing project). More data will be uploaded soon.
